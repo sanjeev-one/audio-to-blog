@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-aiobotocore==2.12.3
-boto3==1.34.69
-jinja2==3.1.2
-requests==2.28.1
-python-multipart==0.0.9
+aiobotocore
+boto3
+jinja2
+requests
+python-multipart
