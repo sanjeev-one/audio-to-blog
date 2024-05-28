@@ -50,6 +50,6 @@ response = requests.post(url, headers=headers, json=payload)
 
 # Check the response.
 if response.status_code == 200:
-    print("Blog post created successfully!")
+    print("Blog post created successfully! ")
 else:
     print(f"Failed to create blog post: {response.status_code} - {response.text}")
