@@ -19,3 +19,4 @@ Audio2Blog is a serverless microarchitecture built with Rust, AWS, and FastAPI. 
 5. **Custom Rust Lambda (Publishing):** A Lambda function written in Rust sends the blog back to the API and uses GitHub's API to post it.
 6. **Status Tracking:** Processing status is tracked, and users can retrieve the status and result via API.
 
+todo: add aws step funciton code to repo 
